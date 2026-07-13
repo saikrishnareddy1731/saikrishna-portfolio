@@ -1,0 +1,17 @@
+UPLOAD ALL OF THESE ITEMS DIRECTLY TO THE ROOT OF YOUR GITHUB REPOSITORY:
+
+index.html
+browse.html
+about.html
+404.html
+.nojekyll
+README.md
+assets/  (upload the complete folder)
+
+IMPORTANT:
+1. Delete/replace the old versions first.
+2. Do not put these files inside another folder.
+3. Confirm browse.html and assets/css/styles.css show the latest commit.
+4. After GitHub Pages finishes deploying, press Command + Shift + R.
+
+This V4 build removes all hero/experience overlap and uses cache-busting URLs.
